@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fernandomaximof. This is my second and official account.
+- 👋 Hi, I’m @fernandomaximof. 
+- 💪 This is my second and official account 
 - 👀 I’m interested in the Web3
 - 🌱 I’m currently learning about blockchain development
 - 💞️ I’m looking to collaborate on ...
